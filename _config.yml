@@ -1,0 +1,28 @@
+name: PaulThrall
+favicon: null
+layout_spectrum: 0.290784984594211
+typography_spectrum: 0.4361812809947878
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.26090373029001057
+  lightness: 0.4518472112249583
+  saturation: 0.6046630281489342
+  rhythmicContrast: 0.07879540789872408
+purpose: []
